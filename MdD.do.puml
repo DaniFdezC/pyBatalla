@@ -1,0 +1,8 @@
+object "heman: Guerrero" as heman{
+    energia = 20
+}
+
+object "dracula: Vampiro" as dracula{
+    energia = 10
+}
+
