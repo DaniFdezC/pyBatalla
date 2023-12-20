@@ -1,3 +1,5 @@
+<img src="/imagenes/charcoal-drawing.png" width="40%" align="right"/>
+
 # Enunciado
 
 ## Reto base
